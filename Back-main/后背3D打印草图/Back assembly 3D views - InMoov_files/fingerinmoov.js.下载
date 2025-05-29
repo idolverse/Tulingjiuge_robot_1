@@ -1,0 +1,17 @@
+jQuery(document).ready(function($) {
+
+
+	$("#logo").mouseenter(function() {
+	 $("#degrade").fadeIn(1000);
+  	 $("#soundlogo")[0].play();
+  	 $("#degrade").fadeOut(1000); 
+ 	});
+
+	$("#logo-anchor").mouseenter(function() {
+  	 // $("#degrade").fadeIn(1000);
+  	 // sound.play();
+  	 // $("#soundlogo")[0].play();
+  	 // $("#degrade").fadeOut(1000);  	 
+ 	});
+
+});
