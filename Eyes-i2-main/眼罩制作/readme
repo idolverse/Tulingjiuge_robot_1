@@ -1,0 +1,37 @@
+眼睛机制
+眼部机构组装
+这个新机制的灵感来自Mats Onnerby和Bob Houston。它取代了我之前的眼睛机制，你仍然可以在完成以下教程后找到它。
+
+从图库下载 STL（已下载至眼罩STL）
+
+在打印所有部件之前，您应该打印一份校准器 (CALIBRATOR)，以检查部件是否能够拼合。如果您在拼合这些部件时遇到困难，可以调整切片软件的水平扩展设置来解决这个问题。此设置可能因切片机和打印机而异，但用户报告称，将其设置为 -0.15 是一个不错的起点。
+填充率为 30%，壁厚为 2 毫米，最好无筏，无支撑（除非另有说明），大部件使用边缘以避免翘曲。
+
+您需要以良好的分辨率打印所有这些部分：
+
+1x 2xEyeBallFullV2
+1x眼铰链曲线
+2x眼铰链
+1x眼座
+1x眼板左
+1x眼板右
+1x EyeSupport（打印时附带支撑）
+1x眼到鼻
+
+根据您选择的相机，打印：
+
+眼球支持赫拉克勒斯左
+眼球支持大力神右
+EyeBallSupportLifeCamHDLeft
+EyeBallSupportLifeCamHDRight
+我使用了 2 个 Hobbyking 的 DS929HV 伺服器，因为它们更强大，但您也可以使用一些 DS928HV 甚至一些便宜的 SG92R 或 HXT900。
+
+您可以使用两种网络摄像头：
+
+Hercules Twist 高清网络摄像头
+LifeCam 3000 HD Microsoft（如果 PCB 相同，也可能是 5000）
+
+拆解LifeCam 3000 HD：https ://astrophotovideo.wordpress.com/adapting-a-webcam-to-a-telescope/
+
+
+
