@@ -10,7 +10,7 @@
 
 示意图如下：
 
-![image](https://github.com/user-attachments/assets/139d4b0c-6625-497e-b05f-1e8a25e166d6)
+![image](https://github.com/user-attachments/assets/0b3ba390-327b-4d4b-9d7d-aa7ad0c10107)
 
 <h2>sw</h2>
 
