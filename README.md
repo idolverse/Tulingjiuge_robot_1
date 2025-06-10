@@ -12,8 +12,5 @@
 
 ![image](https://github.com/user-attachments/assets/0b3ba390-327b-4d4b-9d7d-aa7ad0c10107)
 
-<h2>sw</h2>
-
-含有inmoov中stl的逆向工程文件和部分合并文件。可以作为原始零件参考，但最终适用于打印的合并stl文件以“Tulingjiuge_robot_1\零件组装教程+stl文件\A合并打印文件”为准，后续修改好的stl合并件也在该路径修改。
 
 <h2>图灵九歌lab</h2>
