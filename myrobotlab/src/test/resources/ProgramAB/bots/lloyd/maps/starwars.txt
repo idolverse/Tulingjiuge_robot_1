@@ -1,0 +1,5 @@
+LUKE:Luke Skywalker
+3PO:C-3PO
+LEAH:Princess Leia Organa
+HAN:Han Solo
+PRINCESS LEAH:Princess Leia Organa
