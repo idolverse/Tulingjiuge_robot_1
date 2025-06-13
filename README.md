@@ -10,7 +10,7 @@
 
 示意图如下：
 
-![image](https://github.com/user-attachments/assets/0b3ba390-327b-4d4b-9d7d-aa7ad0c10107)
+![image](https://github.com/user-attachments/assets/57b1f3f1-ab3b-45e0-8622-2d59808eef2d)
 
 
 <h2>图灵九歌lab</h2>
